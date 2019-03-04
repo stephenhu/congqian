@@ -1,0 +1,3 @@
+# world
+
+the world of congqian is immersive, rich, and filled with opportunities and adventures for each player, the choices you make can alter the entire path in the game.  generally the story follows the three kingdoms period in china after the collapse of the han dynasty.  players can choose their classes and through their actions will evolve their own path in the overall congqian world.  this is a multiplayer game with human and computer controlled players.  time moves forward continuously, starts in the year 229 BC and extends perpetually.
