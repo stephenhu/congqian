@@ -91,7 +91,7 @@ details | description
 ruler | wu ling
 location | northeastern and central shanxi and southwestern hebei
 capital | handan
-cities | 
+cities | changping, zhongshan
 philosophers | shen dao, gongsun long, xun zi
 
 
@@ -102,7 +102,7 @@ details | description
 ruler | huiwen
 location | 
 capital | yueyang
-cities | 
+cities | xianyang, 
 philosophers | shang yang
 strategy | reform, sow discontent amongst 6 kingdoms
 
@@ -144,7 +144,7 @@ details | description
 ruler | xuan hui
 location | shanxi, henan
 capital | yangzhai, xinzheng
-cities | 
+cities | daliang, zhou
 philosophers | shen buhai
 
 ### Wei
