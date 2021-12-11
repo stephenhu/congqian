@@ -8,3 +8,4 @@
 * https://www.newworldencyclopedia.org/entry/Warring_States_Period
 * https://en.wikipedia.org/wiki/Zhao_(state)
 * https://en.wikipedia.org/wiki/Book_of_Documents
+* https://infogalactic.com/info/Zhao_(state)

@@ -26,6 +26,22 @@ this is part of the zhou dynasty which can be considered an eighth kingdom for a
 each kingdom will have different legal systems, technical abilities, resources, policies, figures, military, etc.  players
 can also choose to become unaffiliated with any kingdom and play as outlaws.
 
+### populations
+
+rough estimate for population during this time is about 30-45 million, if you use 40 million people as the population for just the 7 kingdoms, not counting barbarian tribes, that's about 5-6 million people per kingdom if distributed evenly.
+
+kingdom | population
+---|---
+zhao | 5,671,392
+qi | 5,304,028
+qin | 4,809,113
+yan | 4,872,309
+wei | 5,892,138
+han | 5,832,012
+chu | 6,283,954
+xiongnu | 1,328,530
+other | 893,235
+
 ### Legal System
 
 the legal system is different for each kingdom, the general laws and enforcement of those laws will vary.  There will need to be those that make the policies and laws, those that enforce the laws which is essentially the government
@@ -94,8 +110,8 @@ details | description
 ---|---
 ruler | wu ling
 location | northeastern and central shanxi and southwestern hebei
-capital | handan
-cities | changping, zhongshan
+capital | jinyang
+cities | taiyuan, handan
 philosophers | shen dao, gongsun long, xun zi
 
 
@@ -105,8 +121,8 @@ details | description
 ---|---
 ruler | huiwen
 location | 
-capital | yueyang
-cities | xianyang, 
+capital | xianyang
+cities | yong, nanzheng 
 philosophers | shang yang
 strategy | reform, sow discontent amongst 6 kingdoms
 
@@ -117,7 +133,7 @@ details | description
 ruler | 
 location |
 capital | shouchun
-cities | 
+cities | chang-hsia, ying
 philosophers |
 
 ### Qi
@@ -126,8 +142,8 @@ details | description
 ---|---
 ruler | wei
 location | 
-capital | yingqiu
-cities | 
+capital | linzi
+cities | libei, linzi, jiaodong
 philosophers |
 
 ### Yan
@@ -137,7 +153,7 @@ details | description
 ruler | zhao
 location | shanxi, hebei
 capital | ji
-cities | 
+cities | yuyang, liaoxi
 philosophers |
 generals | yue yi
 
@@ -147,8 +163,8 @@ details | description
 ---|---
 ruler | xuan hui
 location | shanxi, henan
-capital | yangzhai, xinzheng
-cities | daliang, zhou
+capital | yangzhai
+cities | yiyang, luoyang
 philosophers | shen buhai
 
 ### Wei
@@ -158,7 +174,22 @@ details | description
 ruler | hui wang
 location | henan, hebei, shanxi, shandong
 capital | daliang
-cities | 
+cities | wei, zhongmou
 philosophers |
 generals | pang juan
 strategy | conquer eastern kingdoms that have vast resources, qin is a poor wasteland
+
+### Tribes
+
+xiongnu, 
+## kingdoms
+
+a kingdom consists of a capital, major cities, towns, and villages.  only cities and towns will be named, villages will have a unique id assigned.
+
+villages will be clustered around the kingdom and will most likely be clustered around a town or city.
+
+entity | size range
+---|---
+village | < 300
+town | < 2,000
+city | < 50,000
