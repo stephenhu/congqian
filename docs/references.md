@@ -9,3 +9,4 @@
 * https://en.wikipedia.org/wiki/Zhao_(state)
 * https://en.wikipedia.org/wiki/Book_of_Documents
 * https://infogalactic.com/info/Zhao_(state)
+* https://www.martialartswords.com/blogs/articles/bronze-vs-iron-vs-steel-swords-evolution-of-metals
